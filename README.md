@@ -1,6 +1,6 @@
 # KOX_Lawnchair
 
-KOX_Lawnchair is a [knockout.js](http://knockoutjs.com/) [custom extender]http://knockoutjs.com/documentation/extenders.html) that allow an easy way to added [Lawnchair](http://brian.io/lawnchair/) based local storage of observable data.
+KOX_Lawnchair is a [knockout.js](http://knockoutjs.com/) [custom extender](http://knockoutjs.com/documentation/extenders.html) that allow an easy way to added [Lawnchair](http://brian.io/lawnchair/) based local storage of observable data.
 
 # Requirements
 - Knockoutjs
